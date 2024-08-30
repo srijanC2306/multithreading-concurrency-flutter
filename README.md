@@ -1,4 +1,4 @@
-# multithreading_concurrency_flutter
+# Multithreading & Concurrency in Fluttr
 
 The project tries to explain about multithreading  and use case of multithreading
 

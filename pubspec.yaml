@@ -30,6 +30,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  image_editing_flutter:
+    path: image_editing_flutter
 
 
   # The following adds the Cupertino Icons font to your application.
